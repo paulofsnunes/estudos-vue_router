@@ -1,7 +1,7 @@
 ## Estudos com Vue.js sobre router.
 
 ### Foi trabalhado router-view, router-link, $route, dynamic router, navigation guard, props, nested routes, named routes, transitions, fetch, redirect e scrollBehavior.
-```
+
 
 ## Project setup
 ```
